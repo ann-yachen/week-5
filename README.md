@@ -1,7 +1,7 @@
 # week-5
 
-### Request-3 SQL CRUD<br/>
-Inserted the user data with username='test' and password='test into table 'member', and then inserted 4 user data into table 'member'.
+### Request-3 SQL CRUD
+Inserted the user data with username='test' and password='test into table 'member', and then inserted 4 user data into table 'member'.<br/>
 ![request-3_01](https://github.com/ann-yachen/week-5/blob/main/request-3_01.png)
 ![request-3_02](https://github.com/ann-yachen/week-5/blob/main/request-3_02.png)
 ![request-3_03](https://github.com/ann-yachen/week-5/blob/main/request-3_03.png)
@@ -15,7 +15,7 @@ Ordered data by time and selected the second to 4th.<br/>
 Selected data with username='test'. Selected data with username='test' and password='test'.<br/>
 ![request-3_06](https://github.com/ann-yachen/week-5/blob/main/request-3_06.png)
 
-Updated the name as 'test2' of username='test' and password='test'.
+Updated the name as 'test2' of username='test' and password='test'.<br/>
 ![request-3_07](https://github.com/ann-yachen/week-5/blob/main/request-3_07.png)
 
 ### Request-4 SQL Aggregate Functions
