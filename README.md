@@ -23,6 +23,8 @@ Calculated total count of rows, the sum of follower_count and the average of fol
 ![request-4](https://github.com/ann-yachen/week-5/blob/main/request-4.png)
 
 ### Request-5 SQL JOIN (Optional)
-Selected messages from message with name in memeber by INNER JOIN, selected messages from message with name when username='test' in memeber by INNER JOIN, and calulated average of like_count from message with name when username='test' in memeber by INNER JOIN.<br/>
+Selected messages from message with name in memeber by INNER JOIN, selected messages from message with name when username='test' in memeber by INNER JOIN.<br/>
 ![request-5](https://github.com/ann-yachen/week-5/blob/main/request-5_01.png)
+
+Calulated average of like_count from message with name when username='test' in memeber by INNER JOIN.<br/>
 ![request-5](https://github.com/ann-yachen/week-5/blob/main/request-5_02.png)
